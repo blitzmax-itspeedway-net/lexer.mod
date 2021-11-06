@@ -4,6 +4,9 @@ BlitzMax Lexer by Scaremonger.
 
 **VERSION:** 2.0
 
+# DEPENDENCIES
+* [BlitzMax-NG](https://blitzmax.org/downloads/)
+
 # MANUAL INSTALL USING GIT
 **LINUX:**
 ```
